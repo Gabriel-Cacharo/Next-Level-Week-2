@@ -1,6 +1,6 @@
 <h1 align="center">📕 Next Level Week 2</h1>
 
-<h3 align="center">📖 | Profffy website made during Next-Level-Week-2.</h3>
+<h3 align="center">📖 | Profffy website made during a Next-Level-Week-2.</h3>
 
 &nbsp;
 
